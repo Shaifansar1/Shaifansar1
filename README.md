@@ -59,12 +59,7 @@ https://www.linkedin.com/in/shaif-ansari/
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaifansar1&layout=compact&theme=dark)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaifansar1&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaifansar1&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaifansar1&theme=dark)
